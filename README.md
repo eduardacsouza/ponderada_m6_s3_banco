@@ -6,7 +6,7 @@
 ## 1. Modelo Lógico do Banco de Dados
 &emsp;O modelo lógico foi criado para atender minimamente ao problema proposto, considerando as entidades Paciente, Veiculo, ProdutoMédico, UnidadeSaude, Transporte e Entrega. O diagrama do modelo lógico pode ser visualizado a seguir:
 
-(imagem diagrama)
+<img src="imagens/diagrama.png" width="100%">
 
 ### Relacionamentos das tabelas:
 
@@ -111,4 +111,12 @@ GROUP BY
 ```
 
 ### Imagens do passo a passo:
+
+<img src="imagens/database.png" width="100%">
+
+<img src="imagens/create_table.png" width="100%">
+
+<img src="imagens/insert_infos.png" width="100%">
+
+<img src="imagens/consult.png" width="100%">
   
