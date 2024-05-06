@@ -25,3 +25,12 @@
 **De Entrega para Veículo**: Essa relação é de N para 1, pois uma entrega é realizada por um único veículo, mas um veículo pode realizar várias entregas.
 
 **De Transporte para Veículo**: Essa relação é de 1 para 1, pois um veículo só pode transportar um paciente por vez.
+
+## 2. Deploy do Banco de Dados no MySQL RDS da AWS
+&emsp;O banco de dados foi implantado em um serviço MySQL RDS da AWS.
+
+###Passo a passo realizado:
+- Criar uma instância RDS utilizando o laboratório do AWS Academy;
+- Realizar o deploy do MySQL na instância RDS criada;
+- Utilizar o diagrama criado para estruturação do banco
+  
